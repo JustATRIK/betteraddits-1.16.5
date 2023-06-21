@@ -1,0 +1,12 @@
+{
+  "item.betteraddits.admin_config_tool": "Панель настройки",
+  "betteraddits.container.playersShop.buyBtnName": "Купить!",
+  "betteraddits.container.playersShop.cancelBtnName": "Отмена!",
+  "betteraddits.container.playersShop.plus1BtnName": "+1",
+  "betteraddits.container.playersShop.plus16BtnName": "+16",
+  "betteraddits.container.playersShop.plus32BtnName": "+32",
+  "betteraddits.container.playersShop.minus1BtnName": "-1",
+  "betteraddits.container.playersShop.minus16BtnName": "-16",
+  "betteraddits.container.playersShop.minus32BtnName": "-32",
+  "betteraddits.container.playersShop.inStockMsg": "В наличии:"
+}
